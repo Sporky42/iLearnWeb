@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+}
+
+header {
+	background: #333;
+	color: #FFFFFF;
+}
+
+h1 {
+	color: #FFF;
+}
+
+nav ul li {
+	vertical-align: top;
+}
